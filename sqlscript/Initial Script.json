@@ -7,7 +7,7 @@
 				"language": "sql"
 			},
 			"currentConnection": {
-				"databaseName": "updatalakehouse",
+				"databaseName": "datalake_trabajo",
 				"poolName": "Built-in"
 			},
 			"resultLimit": 5000
